@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dustinredmond.fxtrayicon.FXTrayIcon" type="repository">
+    <properties maven-id="com.dustinredmond.fxtrayicon:FXTrayIcon:3.1.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dustinredmond/fxtrayicon/FXTrayIcon/3.1.2/FXTrayIcon-3.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
